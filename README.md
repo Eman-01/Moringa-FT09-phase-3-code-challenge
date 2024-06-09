@@ -153,6 +153,8 @@ Write the following methods in the models(Article, Author, magazine) provided in
   - Authors must be of type `Author`
   - Returns `None` if the magazine has no authors with more than 2 publications
 
+# recordin link: https://calip.io/hSyJz3kV#Ghz7Efy9
+
 
 
 
